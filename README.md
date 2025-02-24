@@ -1,5 +1,4 @@
-👋 Hi, I’m @R3nfix. I'm 16 years old, and I'm just learning frontend development. 
-In the future, I want to become a good web developer and create good websites.
-
+👋 Привет, я @R3nfix. Мне 16 лет, и я изучаю фронтенд разработку.
+В будущем я хочу стать хорошим веб-разработчиком и создавать хорошие сайты
 
 
