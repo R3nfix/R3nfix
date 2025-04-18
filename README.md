@@ -3,4 +3,4 @@
 Пока я только учусь, и в будущем я хочу стать хорошим веб-разработчиком и создавать хорошие и красивые сайты
 
 # Как со мной связаться:
-<b>Telegram:<b> <a href="[t.me/renfix](https://t.me/renfix)">[t.me/renfix](https://t.me/renfix)</a>
+<b>Telegram:<b> <a href="[t.me/renfix](https://t.me/renfix) target='_blank'">[t.me/renfix](https://t.me/renfix)</a>
