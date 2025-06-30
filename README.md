@@ -6,7 +6,7 @@
 <ul>
 <b>
   <li>
-    <a href="[t.me/qu3nty](https://t.me/qu3nty)">Telegram</a>
+    <a href="https://t.me/qu3nty">Telegram</a>
   </li>
 </b> <br>
 </ul>
