@@ -3,4 +3,10 @@
 Пока я только учусь, и в будущем я хочу стать хорошим веб-разработчиком и создавать хорошие и красивые сайты
 
 # Как со мной связаться:
-<b><a href="[t.me/qu3nty](https://t.me/qu3nty)">Telegram</a></b> <br>
+<ul>
+<b>
+  <li>
+    <a href="[t.me/qu3nty](https://t.me/qu3nty)">Telegram</a>
+  </li>
+</b> <br>
+</ul>
