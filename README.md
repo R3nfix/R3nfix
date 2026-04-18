@@ -9,5 +9,3 @@
   </li>
 </b> <br>
 </ul>
-
-![](https://komarev.com/ghpvc/?username=R3nfix&color=blue)
