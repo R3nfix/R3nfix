@@ -5,7 +5,7 @@
 <ul>
 <b>
   <li>
-    <a href="https://t.me/randomeruser">Telegram</a>
+    <a href="https://t.me/asciiencoding">Telegram</a>
   </li>
 </b> <br>
 </ul>
